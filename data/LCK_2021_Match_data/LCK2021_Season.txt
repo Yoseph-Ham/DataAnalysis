@@ -1,0 +1,6 @@
+url_LCK2021_SeasonSpring_Season.txt
+# url_LCK2021_SeasonSpring_Playoffs.txt
+url_LCK2021_SeasonSummer_Season.txt
+# url_LCK2021_SeasonSummer_Playoffs.txt
+# url_LCK2021_SeasonRegional_Finals.txt
+# url_LCK2021_SeasonChampionship_Points.txt
